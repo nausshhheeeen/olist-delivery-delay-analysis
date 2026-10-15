@@ -138,6 +138,6 @@ Suggested next steps for a business team:
 ## 8. Files in This Repository
 
 - `olist_analysis.sql` (all queries, commented)
-- `results/` (exported query results)
+- `Q1 to Q8 result CSV's
 - `README.md` (this file)
 
